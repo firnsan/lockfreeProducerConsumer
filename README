@@ -1,0 +1,9 @@
+About
+As konown to us, common Producer-Consumer model are writen with lock, but can you write it without lock ?
+
+References
+[1] Yet-another-implementation-of-a-lock-free-circle
+http://www.codeproject.com/Articles/153898/Yet-another-implementation-of-a-lock-free-circular
+
+[2]透过 Linux 内核看无锁编程
+http://www.ibm.com/developerworks/cn/linux/l-cn-lockfree/
